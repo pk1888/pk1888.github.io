@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Welcome to My New Blog"
 date: 2024-11-30 00:00:00 +0800
 categories: [Hello World]
 tags: [Hello World]
