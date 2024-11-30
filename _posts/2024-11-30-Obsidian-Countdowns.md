@@ -15,6 +15,7 @@ image:
 
 Testing
 
+---
 ```dataviewjs
 // Christmas Countdown
 const today = moment();
@@ -35,3 +36,4 @@ const minutesToNewYear = newYear.diff(today, 'minutes') % 60;
 const newYearContainer = this.container;
 newYearContainer.createEl("h1", { text: `🎉 Countdown to New Year 🎆` });
 newYearContainer.createEl("p", { text: `${daysToNewYear} days, ${hoursToNewYear} hours, and ${minutesToNewYear} minutes left!` });
+---
