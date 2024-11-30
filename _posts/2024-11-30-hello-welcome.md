@@ -3,6 +3,20 @@ title: "Hello World"
 date: 2024-11-30 00:00:00 +0800
 categories: [Hello World]
 tags: [Hello World]
+image: 
+  path: https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3bd1/live/d983c500-6f90-11ef-a0dd-1771b36c4a17.jpg
 ---
 
-You want to get started developing JavaScript with NodeJS, ReactJS, or AngularJS but you're not sure how to get started?  This is a complete, step by step guide on how to configure your Windows machines for JavaScript development the right way.You'll learn how to install and configure Windows, the new Windows Terminal, WSL, Ubuntu, ZSH with Oh My ZSH, yarn, NPM,  NVM, NodeJS, and VS Code.We'll also configure our git client for SSH access to GitHub.This is the perfect beginner tutorial for anyone trying to develop software on a Windows PC.
+# Welcome to My New Blog! 🎉
+
+Hello there! 👋 I’m excited to share that I’ve launched my new website, powered by **Jekyll**! 🚀
+
+I've always wanted to create a space to share my thoughts, projects, and all things tech. 💻 Now, with the help of Jekyll, I can finally bring it to life! 
+
+Stay tuned for more updates. ✨ I can’t wait to see where this journey takes us! 🌍
+
+Thanks for visiting, and don’t forget to leave a comment if you enjoy what you see. 😊
+
+---
+
+Proudly using **Jekyll** to build this site! 💪 #OpenSource #Jekyll
