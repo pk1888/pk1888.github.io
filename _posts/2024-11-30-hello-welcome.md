@@ -7,4 +7,6 @@ tags: [Hello World]
 
 # Hello World
 
-Hello world this is my personal blog.
+**Hello world this is my personal blog.**
+
+Thanks for visiting!
