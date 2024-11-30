@@ -8,7 +8,7 @@ tags:
   - obsidian
   - obsidian dataview
 image:
-  path: /img/images/obsidian.png
+  path: /assets/images/posts/obsidian.png
 ---
 
 # Obsidian countdowns! 🎉
