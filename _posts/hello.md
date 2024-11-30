@@ -1,24 +1,20 @@
 ---
-title: "Welcome to My New Blog forever"
+title: "Welcome to My New Blog Forever"
 date: 2024-10-30 00:00:00 +0800
 categories: [Hello World]
-tags: [Hello World]
-#image: 
-#  path: https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3bd1/live/d983c500-6f90-11ef-a0dd-1771b36c4a17.jpg
+tags: [not good]
 ---
 
 # Welcome to My New Blog! 🎉
 
-today is the day
+Today is the day! I'm excited to announce that I've launched my new website, powered by **Jekyll**! 🚀
 
-Hello there! 👋 I’m excited to share that I’ve launched my new website, powered by **Jekyll**! 🚀
+I've always wanted a space to share my thoughts, projects, and all things tech 💻. Now, with the power of Jekyll, I can finally bring this vision to life!
 
-I've always wanted to create a space to share my thoughts, projects, and all things tech. 💻 Now, with the help of Jekyll, I can finally bring it to life! 
+Stay tuned for more updates and content ✨. I can't wait to see where this journey takes us 🌍.
 
-Stay tuned for more updates. ✨ I can’t wait to see where this journey takes us! 🌍
-
-Thanks for visiting, and don’t forget to leave a comment if you enjoy what you see. 😊
+Thanks for visiting, and don't forget to leave a comment if you enjoy what you see! 😊
 
 ---
 
-Proudly using **Jekyll** to build this site! 💪 #OpenSource #Jekyll
+Proudly built with **Jekyll**! 💪 #OpenSource #Jekyll
