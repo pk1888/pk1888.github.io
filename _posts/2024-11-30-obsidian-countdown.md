@@ -17,7 +17,7 @@ Testing
 
 ```yaml
 ---
-dataviewjs
+```dataviewjs
 // Christmas Countdown
 const today = moment();
 const christmas = moment(`${today.year()}-12-25`, "YYYY-MM-DD");
