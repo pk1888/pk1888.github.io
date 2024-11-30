@@ -15,7 +15,8 @@ image:
 
 Testing
 
-```yml
+```yaml
+---
 dataviewjs
 // Christmas Countdown
 const today = moment();
@@ -27,14 +28,5 @@ const minutesToChristmas = christmas.diff(today, 'minutes') % 60;
 const christmasContainer = this.container;
 christmasContainer.createEl("h1", { text: `🎄 Countdown to Christmas 🎅` });
 christmasContainer.createEl("p", { text: `${daysToChristmas} days, ${hoursToChristmas} hours, and ${minutesToChristmas} minutes left!` });
-```
-```yml
-// New Year Countdown
-const newYear = moment(`${today.year() + 1}-01-01`, "YYYY-MM-DD");
-const daysToNewYear = newYear.diff(today, 'days');
-const hoursToNewYear = newYear.diff(today, 'hours') % 24;
-const minutesToNewYear = newYear.diff(today, 'minutes') % 60;
-const newYearContainer = this.container;
-newYearContainer.createEl("h1", { text: `🎉 Countdown to New Year 🎆` });
-newYearContainer.createEl("p", { text: `${daysToNewYear} days, ${hoursToNewYear} hours, and ${minutesToNewYear} minutes left!` });
+---
 ```
