@@ -16,7 +16,6 @@ image:
 Testing hi
 
 ```yaml
----
 ```dataviewjs
 // Christmas Countdown
 const today = moment();
