@@ -223,3 +223,12 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-image-optim
+image_optim:
+  pngquant: false
+  optipng: false
+  gifsicle: false
+  jpegoptim: false
+  svgo: false
