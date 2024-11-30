@@ -1,6 +1,6 @@
 ---
-title: "Welcome to My New Blog"
-date: 2024-11-30 00:00:00 +0800
+title: "Welcome to My New Blog forever"
+date: 2024-10-30 00:00:00 +0800
 categories: [Hello World]
 tags: [Hello World]
 #image: 
@@ -8,6 +8,8 @@ tags: [Hello World]
 ---
 
 # Welcome to My New Blog! 🎉
+
+today is the day
 
 Hello there! 👋 I’m excited to share that I’ve launched my new website, powered by **Jekyll**! 🚀
 
