@@ -1,5 +1,5 @@
 ---
-title: "Obsidian - Countdowns"
+title: "Obsidian Countdowns"
 date: 2024-10-30 00:00:00 +0800
 categories: 
   - Obsidian
@@ -15,8 +15,8 @@ image:
 
 Testing
 
----
-```dataviewjs
+```yml
+dataviewjs
 // Christmas Countdown
 const today = moment();
 const christmas = moment(`${today.year()}-12-25`, "YYYY-MM-DD");
@@ -27,7 +27,8 @@ const minutesToChristmas = christmas.diff(today, 'minutes') % 60;
 const christmasContainer = this.container;
 christmasContainer.createEl("h1", { text: `🎄 Countdown to Christmas 🎅` });
 christmasContainer.createEl("p", { text: `${daysToChristmas} days, ${hoursToChristmas} hours, and ${minutesToChristmas} minutes left!` });
-
+```
+```yml
 // New Year Countdown
 const newYear = moment(`${today.year() + 1}-01-01`, "YYYY-MM-DD");
 const daysToNewYear = newYear.diff(today, 'days');
@@ -36,4 +37,4 @@ const minutesToNewYear = newYear.diff(today, 'minutes') % 60;
 const newYearContainer = this.container;
 newYearContainer.createEl("h1", { text: `🎉 Countdown to New Year 🎆` });
 newYearContainer.createEl("p", { text: `${daysToNewYear} days, ${hoursToNewYear} hours, and ${minutesToNewYear} minutes left!` });
----
+```
