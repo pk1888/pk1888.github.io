@@ -21,4 +21,4 @@ I used to work with WordPress — it's amazing software, no doubt — but I alwa
 
 Feel free to explore, and maybe you'll find something useful or interesting along the way! 🌟
 
-- Paul
+- Paul 👋
