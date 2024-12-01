@@ -58,4 +58,4 @@ This script displays a **personalized greeting** when you open your Obsidian not
 - **Time-Based Adjustments**: The greeting dynamically changes depending on the time of day, making your vault feel more alive.
 - **Customization**: You can easily change the greeting or adjust the logic for different times of the day.
 
-Give it a try and enjoy a warm, personalized greeting each time you open your vault! 👋✨
+Give it a try and enjoy a warm, personalized greeting each time you open your vault! 👋✨ 
