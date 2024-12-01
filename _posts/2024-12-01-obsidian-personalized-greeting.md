@@ -16,9 +16,11 @@ image:
 
 Add a **personalized greeting** to your Obsidian vault that changes based on the time of day. With **DataviewJS**, you can create a greeting that includes your name and adjusts according to whether it's morning, afternoon, or evening.
 
+![alt text](assets/images/posts/obsidian-personalised-greeting.webp)
+
 #### Here's the code for the Personalized Greeting:
 
-```yaml
+```text
 ```dataviewjs
 // Set the user's name
 const userName = "Paul"; // Change this to your name
