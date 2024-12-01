@@ -3,10 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
+# Welcome to my little corner of the web 🌍
 
 Hi, I'm Paul! 👋
-
-# Welcome to my little corner of the web 🌍
 
 This site is primarily a personal reference where I store:
 
