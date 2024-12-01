@@ -67,4 +67,4 @@ This script displays a **random space fact** each time you open your Obsidian no
 - **Educational and Fun**: A great way to add some learning and fun to your notes, all while exploring space-related trivia.
 - **Customization**: You can easily replace the facts in the array or adapt the script to show facts about any other topic you prefer.
 
-Give it a try and enjoy your dynamic space facts! 🚀🌟
+Give it a try and enjoy your dynamic facts! 🚀🌟
