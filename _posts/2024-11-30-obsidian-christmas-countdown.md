@@ -1,5 +1,5 @@
 ---
-title: "Obsidian Countdowns"
+title: "Obsidian Christmas Countdowns"
 date: 2024-10-30 00:00:00 +0800
 categories: 
   - Obsidian
@@ -7,13 +7,16 @@ categories:
 tags:
   - obsidian
   - obsidian dataview
+  - obsidian countdown
 image:
-  path: /assets/images/posts/obsidian.png
+  path: /assets/images/posts/obsidian.webp
 ---
 
 ### Christmas Countdown in Obsidian with DataviewJS
 
 As the holidays draw near, you can bring some festive spirit to your Obsidian vault with a **Christmas Countdown**. By using **DataviewJS** and `moment.js`, you can easily create a countdown timer that will display the number of days, hours, and minutes left until Christmas.
+
+![alt text](assets/images/posts/obsidian-christmas-countdown.webp)
 
 #### Here's the code for the Christmas Countdown:
 
