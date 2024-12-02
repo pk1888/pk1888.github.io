@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Self-Host # the main title
+title: ByteTrek # the main title
 
-tagline: My little spot on the web! # it will display as the subtitle
+tagline: Exploring the world of self-hosting, automation, and digital tools. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  ByteTrek.me is your go-to destination for everything related to self-hosting, Home Assistant, Obsidian, Plex, and more. Dive into tips, tutorials, and insights for building and managing your own digital ecosystem. Whether you're automating your home, organizing with Obsidian, or streaming media with Plex, we've got you covered.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
